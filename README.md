@@ -13,7 +13,8 @@
 - [email](#email)
 
 ## Description:
-    It's an offline application. So, users can access to it with poor or even no internet connection.
+    It's an offline application. 
+    So, users can access to it with poor or even no internet connection.
 ## Installation:
     I am still figuring out...
 ## Usage:
@@ -25,7 +26,7 @@
 ## Link:
     https://github.com/Rey79-coder/food-festival
 ## Questions:
-    How do we make money with this? No food delivery, no paid advertisment, it's a VIP food-table where there is going to be food from vendors around it. People will freely enjoy and talk exclusively about the food. This is the promotion of the website. Contact me to reserve your spot.
+    How do we make money with this? No food delivery, no paid advertisment, it's a VIP food-table where there is going to be food from vendors around it. People will freely enjoy and talk exclusively about the food. This is the promotion of the website. Contact me to reserve your spot. It's a tasting food adventure. People need to provide documentation about food allergies at reservation time. Contact me for details.
 ## email:
     verareyna79@gmail.com
 
