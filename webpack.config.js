@@ -8,6 +8,9 @@ module.exports = {
     filename: "[name].bundle.js",
     path: __dirname + "/dist"
   },
+
+  mode: "development",
+
   module: {
     rules: [
       {
